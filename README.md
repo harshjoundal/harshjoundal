@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjoundal&label=Profile%20views&color=0e75b6&style=flat" alt="harshjoundal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshjoundal" alt="harshjoundal" /></a> </p>
-
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://harshjoundal.netlify.app/](https://harshjoundal.netlify.app/)
+- 👨‍💻 Portfolio [https://harshjoundal.netlify.app/](https://harshjoundal.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
@@ -20,6 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/harshjoundal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshjoundal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshwardhanjoundal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshwardhanjoundal" height="30" width="40" /></a>
+<a href="https://instagram.com/harshjondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshjondal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
